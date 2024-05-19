@@ -33,7 +33,7 @@ async def start(event):
         AltBot = await event.client.get_me()
         BotName = AltBot.first_name
         BotId = AltBot.id
-        TEXT = f"**𝗛𝗘𝗬 [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\n𝗜 𝗔𝗠  [{BotName}](tg://user?id={BotId})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
+        TEXT = f"**𝗛𝗘𝗬 [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\n𝗜 𝗔𝗠  [{BotName}](tg://user?id={BotId})**\n━━━━━━━━━━━━━━━━━━━\n\n"
         TEXT += f"» **✦ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗 𝗕𝗬 :~ [𝗗𝗥𝗔𝗚𝗢𝗡](https://t.me/DRAGON_JAAN_M)**\n\n"
         TEXT += f"» **𝗗𝗥𝗔𝗚𝗢𝗡 𝗦𝗣𝗔𝗠 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :** `3.2`\n"
         TEXT += f"» **𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 𝗩𝗘𝗥𝗦𝗜𝗢𝗡:** `{telethon.__version__}`\n━━━━━━━━━━━━━━━━━"
@@ -42,3 +42,4 @@ async def start(event):
                 "https://telegra.ph/file/f46ab783dc812ba3f61d8.jpg",
                 caption=TEXT, 
                 buttons=PythonButton)
+            
