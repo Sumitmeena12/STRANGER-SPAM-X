@@ -13,7 +13,7 @@
 
 <h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
 
-<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://telegra.ph/file/a3f0b11c9778742cb973a.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/DRAGON__op"><img src="https://telegra.ph/file/a3f0b11c9778742cb973a.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS DRAGON SPAM BOT, That is the greatest pleasure we have !
