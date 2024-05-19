@@ -1,4 +1,4 @@
-### 🌷𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑🌷
+### 🌷 DRAGON 🌷
 
 <!--
 **itzshukla/itzshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
