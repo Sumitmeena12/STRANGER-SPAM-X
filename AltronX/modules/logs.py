@@ -39,7 +39,7 @@ async def logs(legend):
         await asyncio.sleep(1)
         await fetch.delete()
         logfile = open("skspam.txt", "w")
-        logfile.write("⚡ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ⚡ [ BotSpam Logs ]\n\n" + logs)
+        logfile.write("⚡ DRAHON ⚡ [ BotSpam Logs ]\n\n" + logs)
         logfile.close()
         await MK1.send_file(legend.chat_id, "skspam.txt", caption=f"⚡ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ⚡\n  » **ᴛɪᴍᴇ ᴛᴀᴋᴇɴ:** `{ms} ꜱᴇᴄᴏɴᴅꜱ`")
     else:
